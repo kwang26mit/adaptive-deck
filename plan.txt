@@ -1,0 +1,8 @@
+fix it so that it works for japanese-english
+change so that it works for english-japanese
+add gpt 4o mini
+change so that it works for english-any language
+refactor
+
+add image flag
+add audio flag

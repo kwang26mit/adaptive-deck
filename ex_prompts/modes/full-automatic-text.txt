@@ -1,0 +1,28 @@
+Text: Electric vehicles have arrived. With technology led by Tesla, and all of the world's 
+major car manufacturers following along behind, electric vehicles are now a common sight on 
+the roads of most developed countries.  Yet the situation in less developed countries is 
+rather different;  the only African country to have started the change to electric vehicles 
+is South Africa and even there, electric vehicle sales still account for less than 1% of the 
+total. In South America, the situation is better, with all Latin American countries beginning 
+the move towards electric vehicles, particularly Columbia which, in 2020, had a third of the 
+continent's total electric car fleet. In Russia, the wealthy were investing in imported electric 
+cars until the invasion of Ukraine stopped most imports; a very small number of electric vehicles 
+are manufactured locally. In India the government is promoting the purchase of electric vehicles 
+with tax exemptions and other incentives. So electric cars have arrived, and their share of the 
+market is increasing almost worldwide.
+
+Quantity: 8
+Flashcards:
+    1) vehicles
+    2) account for
+    3) fleet
+    4) wealthy
+    5) imports
+    6) manufactured
+    7) exemptions
+    8) incentives
+Reasoning: We aim to create a diverse list of 8 intermediate-level flashcards from the given text.
+Since these are intermediate-level flashcards, we choose words like wealthy and account for, which
+are rated as level A2 and B1 on the CEFR scale. We supplement the deck with additional cards of higher
+or lower difficulty to reach the given quantity of 8. All of the cards are found directly from the
+text.

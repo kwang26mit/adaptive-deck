@@ -1,0 +1,8 @@
+English: ecosystem
+Japanese: 生態系
+
+English: to maintain
+Japanese: 維持する
+
+English: The early bird catches the worm.
+Japanese: 早起きは三文の徳

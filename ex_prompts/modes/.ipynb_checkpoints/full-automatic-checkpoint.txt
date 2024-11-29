@@ -1,0 +1,30 @@
+Topic: 自然
+Quantity: 8
+Flashcards:
+    1) ecosystem
+    2) atmospheric pressure
+    3) pollution
+    4) fossil
+    5) glacier
+    6) coral reef
+    7) rainy season
+    8) humidity
+Reasoning: We aim to create a diverse list of 8 nature-related intermediate-level flashcards. 
+Since these are intermediate-level flashcards, we choose words like ecosystem and glacier, which
+are rated as level A2 and B1 on the CEFR scale. Since this a diverse set of cards, we choose 
+nature-adjacent words such as atmospheric pressure and pollution.
+
+Topic: 動詞
+Quantity: 6
+Flashcards: 
+    1) to preserve
+    2) to interrupt
+    3) to rely
+    4) to maintain
+    5) to bloom
+    6) to contribute
+Reasoning: We aim to create a deck of 6 intermediate-level verbs used in daily interactions 
+and tasks. Words like preserve and contribute are rated A2-B1 on the CEFR scale, 
+suitable for students aiming to build functional, real-world vocabulary.  This selection includes 
+a mix of physical actions, like to rely and to bloom, and more versatile actions, like to 
+maintain.
